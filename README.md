@@ -25,7 +25,9 @@ and their financials variables.
 
 ## 2. Models used in the analysis
 2.1 Random Forest
+
 2.2 XGBoost
+
 2.3 LightGBM
 
 
